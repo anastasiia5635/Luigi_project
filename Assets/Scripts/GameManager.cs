@@ -46,7 +46,7 @@ public class GameManager : MonoBehaviour
 
     public void GameOver()
     {
-        // TODO: show game over screen
+       
 
         NewGame();
     }
